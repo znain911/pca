@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<innovaroutes>
+	<route>
+		<routes>
+			<viewpath>newtools</viewpath>
+			<realpaths>a_tools/tools</realpaths>	
+		</routes>
+		
+		<!--<routes>
+			<viewpath>newpage</viewpath>
+			<realpaths>a_content/new_page_data</realpaths>	
+		</routes>-->
+		
+		
+		
+	</route>
+	
+	
+	
+	
+	
+</innovaroutes>
